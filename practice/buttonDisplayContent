@@ -1,0 +1,12 @@
+    <script type="text/javascript">
+    //by clicking the button it display the content initially the content display should be 'none' by clicking the button we displaying the content
+        document.addEventListener('DOMContentLoaded', function() {
+            // Add event listener for button click
+            document.querySelector('.custom-join-waitlist-btn').addEventListener('click', function() {
+                // Get the block element to toggle
+                var container = document.querySelector('.custom-join-waitlist-block');
+                // Toggle display between none and block
+                container.style.display = container.style.display === 'none' || container.style.display === '' ? 'block' : 'none';
+            });
+        });
+    </script>
