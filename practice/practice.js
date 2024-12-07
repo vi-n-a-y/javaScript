@@ -36,6 +36,7 @@
 // const arr1=[1,2,3,4];
 // const arr2=[...arr1,5,6];
 // console.log(arr2);
+//console.log(arr1);
 
 // // Array and array methods
 
