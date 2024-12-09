@@ -10,6 +10,7 @@
 //     return `Hello, ${name}!`;
 // }
 // console.log(greet('john'));
+//console.log(greet('alice'));
 
 
 // // Function Expression (Anonymous Function)
