@@ -29,6 +29,7 @@
 //     return a*b;
 // }
 // console.log(multiply(5,6));
+// console.log(multiply(7,3));
 
 // //Template Literals
 // let name1="Alice";
