@@ -74,6 +74,7 @@
 //     }
 // };
 
+// console.log(p1.name);
 // console.log(p1.city);
 // console.log(p1.greet());
 
