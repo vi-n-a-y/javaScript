@@ -11,6 +11,7 @@
 // }
 // console.log(greet('john'));
 //console.log(greet('alice'));
+//console.log(greet('micheal'));
 
 
 // // Function Expression (Anonymous Function)
