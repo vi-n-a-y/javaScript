@@ -4,6 +4,7 @@
 //    console.log(a);
 //}
 //console.log(a)
+console.log("something");
 
 // // Function Declaration
 // function greet(name){
