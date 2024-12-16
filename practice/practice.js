@@ -1,7 +1,9 @@
 //function xyz(){
 
 //    var a=4;
+//    var b=7;
 //    console.log(a);
+//    console.log(a+b);
 //}
 //console.log(a)
 //console.log("something");
