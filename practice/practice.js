@@ -7,7 +7,10 @@
 //}
 //console.log(a)
 //console.log("something");
-
+//const sub=(a,b)=>{
+//    return a-b;
+//} 
+//console.log(sub(5,2));
 // // Function Declaration
 // function greet(name){
 //     return `Hello, ${name}!`;
