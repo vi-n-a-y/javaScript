@@ -11,6 +11,7 @@
 //    return a-b;
 //} 
 //console.log(sub(5,2));
+//console.log(sub(7,3));
 // // Function Declaration
 // function greet(name){
 //     return `Hello, ${name}!`;
