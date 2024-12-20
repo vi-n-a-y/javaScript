@@ -16,6 +16,7 @@
 //    return a*b;
 //} 
 //console.log(mul(3,6));
+//console.log(mul(5,8));
 // // Function Declaration
 // function greet(name){
 //     return `Hello, ${name}!`;
