@@ -24,6 +24,8 @@
 // console.log(greet('john'));
 //console.log(greet('alice'));
 //console.log(greet('micheal'));
+//console.log(greet('jonathan'));
+
 
 
 // // Function Expression (Anonymous Function)
