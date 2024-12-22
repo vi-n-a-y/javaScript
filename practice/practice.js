@@ -26,7 +26,10 @@
 //console.log(greet('micheal'));
 //console.log(greet('jonathan'));
 
-
+//const div=(a,b)=>{
+//    return a*b;
+//} 
+//console.log(div(14,7));
 
 // // Function Expression (Anonymous Function)
 // const sum=function(a,b){
