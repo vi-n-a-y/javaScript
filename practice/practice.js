@@ -31,10 +31,11 @@
 //} 
 //console.log(div(14,7));
 
-//const div=(a,b)=>{
-//    return a*b;
+//const div1=(a,b)=>{
+//    return a/b;
 //} 
 //console.log(div(45,9));
+//console.log(div1(44,11));
 
 
 // // Function Expression (Anonymous Function)
