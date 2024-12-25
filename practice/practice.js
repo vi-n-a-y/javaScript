@@ -36,6 +36,7 @@
 //} 
 //console.log(div(45,9));
 //console.log(div1(44,11));
+//console.log(div1(36,4));
 
 
 // // Function Expression (Anonymous Function)
