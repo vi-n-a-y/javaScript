@@ -6,6 +6,7 @@ function double(x){
 function triple(x){
     return x*3;
 }
+console.log(triple(4));
 
 function binary1(x){
     return x.toString(2);
