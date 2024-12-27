@@ -41,6 +41,7 @@ function red(a){
 
 
 console.log(red(arr1));
+console.log(red(arr));
 
 const output2=arr1.reduce(function(acc,curr){
     acc=acc+curr;
