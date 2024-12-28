@@ -70,7 +70,7 @@ const users=[
     {firstName:"rohit",lastName:"janu",age:26}
 ];
 
-
+console.log(users.firstName[1]);
 
 const fullName=users.map((x)=>x.firstName+" "+x.lastName);
 
