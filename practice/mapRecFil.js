@@ -73,6 +73,7 @@ const users=[
 console.log(users[0].firstName);
 
 console.log(users[2].lastName);
+console.log(users[3].age);
 const fullName=users.map((x)=>x.firstName+" "+x.lastName);
 
 console.log(fullName);
