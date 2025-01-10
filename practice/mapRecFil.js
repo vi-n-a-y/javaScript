@@ -67,7 +67,8 @@ const users=[
     {firstName:"vinay",lastName:"malla",age:24},
     {firstName:"tiru",lastName:"kasi",age:23},
     {firstName:"krishna",lastName:"sarupu",age:26},
-    {firstName:"rohit",lastName:"janu",age:26}
+    {firstName:"rohit",lastName:"janu",age:26},
+    {firstName:"micheal",lastName:"sam",age:19}
 ];
 
 console.log(users[0].firstName);
