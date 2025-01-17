@@ -22,6 +22,7 @@ const arr1=[5,3,7,1,9,2,6];
 console.log(arr1[4]);
 console.log(arr1[1]);
 console.log(arr1[3]);
+console.log(arr1[0]);
 //filter all odd values;
 const output1=arr1.filter((y)=>y%2!==0);
 const output3=arr1.filter((y)=>y>=6);
