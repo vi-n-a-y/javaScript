@@ -4,6 +4,7 @@
 //    var b=7;
 //    console.log(a);
 //    console.log(a+b);
+// console.log(3+5);
 //}
 //console.log(a)
 //console.log("something");
