@@ -14,6 +14,7 @@
 //console.log(sub(5,2));
 //console.log(sub(7,3));
 //const mul=(a,b)=>{
+// comsole.log(a*b);
 //    return a*b;
 //} 
 //console.log(mul(3,6));
