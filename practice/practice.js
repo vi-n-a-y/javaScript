@@ -29,6 +29,7 @@
 //console.log(greet('jonathan'));
 
 //const div=(a,b)=>{
+// console.log(a*b);
 //    return a*b;
 //} 
 //console.log(div(14,7));
