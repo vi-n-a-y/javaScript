@@ -35,6 +35,7 @@
 //console.log(div(14,7));
 
 //const div1=(a,b)=>{
+// console.log(a/b);
 //    return a/b;
 //} 
 //console.log(div(45,9));
