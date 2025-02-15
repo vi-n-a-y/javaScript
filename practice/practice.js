@@ -45,6 +45,7 @@
 
 // // Function Expression (Anonymous Function)
 // const sum=function(a,b){
+// console.log(a+b);
 //     return a+b;
 // }
 // console.log(sum(4,8));
