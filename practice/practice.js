@@ -9,6 +9,7 @@
 //console.log(a)
 //console.log("something");
 //const sub=(a,b)=>{
+//console.log(a-b);
 //    return a-b;
 //} 
 //console.log(sub(5,2));
