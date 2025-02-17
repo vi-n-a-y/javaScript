@@ -58,6 +58,7 @@
 
 // const multiply=(a,b)=>{
 //     a=b-a;
+// console.log(a*nb);
 //     return a*b;
 // }
 // console.log(multiply(5,6));
