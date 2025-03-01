@@ -5,7 +5,8 @@
             document.querySelector('.custom-join-waitlist-btn').addEventListener('click', function() {
                 // Get the block element to toggle
                 var container = document.querySelector('.custom-join-waitlist-block');
-                // Toggle display between none and block
+console.log(container);
+// Toggle display between none and block
                 container.style.display = container.style.display === 'none' || container.style.display === '' ? 'block' : 'none';
             });
         });
