@@ -81,6 +81,7 @@
 // const arr2=[...arr1,5,6];
 // console.log(arr2);
 //console.log(arr1);
+//console.log(arr1[2]);
 
 // // Array and array methods
 
