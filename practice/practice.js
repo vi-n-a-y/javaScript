@@ -82,6 +82,7 @@
 // console.log(arr2);
 //console.log(arr1);
 //console.log(arr1[2]);
+//console.log(arr1[0]);
 
 // // Array and array methods
 
