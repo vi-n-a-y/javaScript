@@ -34,6 +34,7 @@
 //    return a*b;
 //} 
 //console.log(div(14,7));
+//console.log(div(64,8));
 
 //const div1=(a,b)=>{
 // console.log(a/b);
