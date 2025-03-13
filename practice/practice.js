@@ -52,8 +52,7 @@
 // }
 // console.log(sum(4,8));
 //console.log(sum(25,37));
-
-
+//console.log(sum(46,54));
 
 // //Arrow Function
 
