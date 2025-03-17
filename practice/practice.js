@@ -83,6 +83,7 @@
 //console.log(arr1);
 //console.log(arr1[2]);
 //console.log(arr1[0]);
+//console.log(arr1[3]);
 
 // // Array and array methods
 
